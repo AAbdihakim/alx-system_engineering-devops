@@ -7,3 +7,4 @@ source ./2-bring_me_home -changes the working di to the user's dir
 ./4-listmorefiles- script to display hidden files
 ./5-listfilesdigitonly - script to display current directory with user and group id displayed numerically
 ./6-firstdirectory - Script to create a director in /tmp directory
+./7-movethatfile - a script to move a file
