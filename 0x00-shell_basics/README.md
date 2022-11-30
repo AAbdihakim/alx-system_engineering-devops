@@ -12,3 +12,4 @@ source ./2-bring_me_home -changes the working di to the user's dir
 .9-firstdirdeletion - a script to remove a directory
 ./10-back - script to change from working directory to previous directory 
 ./11-lists - script that lists all files in the current working dir, parent dir and boot dir
+./12-file_type - script to print a given file type
