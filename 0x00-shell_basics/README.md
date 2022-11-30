@@ -14,3 +14,4 @@ source ./2-bring_me_home -changes the working di to the user's dir
 ./11-lists - script that lists all files in the current working dir, parent dir and boot dir
 ./12-file_type - script to print a given file type
 ./13-symbolic_link - a script to create a symbolic link
+./14-copy_html - a script to copy all files from current dir to parent dir
