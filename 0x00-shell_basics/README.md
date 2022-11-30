@@ -5,3 +5,4 @@ Script description
 source ./2-bring_me_home -changes the working di to the user's dir
 ./3-listfiles - displays current directory content in long formats
 ./4-listmorefiles- script to display hidden files
+./5-listfilesdigitonly - script to display current directory with user and group id displayed numerically
