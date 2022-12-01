@@ -8,3 +8,4 @@
 ./7-everybody - adds execution permission to the owner, the group owner and the other users, to the file
 ./8-james_Bond - gives all persions to other except owner and group
 ./9-John_Doe - Give owner all permission.
+./10-look_miiro_permissions -  script that sets the mode of the file hello the same as olleh’s mode
