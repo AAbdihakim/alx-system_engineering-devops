@@ -1,2 +1,0 @@
-#!/bin/bash
-chown --from=root:root -L vincent:staff _hello 
