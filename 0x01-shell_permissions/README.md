@@ -10,3 +10,4 @@
 ./9-John_Doe - Give owner all permission.
 ./10-look_miiro_permissions -  script that sets the mode of the file hello the same as olleh’s mode
 ./12-directory_permissions - create directory with a permissions
+./13-change-group - script to change the group owner
