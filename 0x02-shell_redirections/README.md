@@ -8,3 +8,4 @@
 ./4-lastlines - Display the last 10 lines
 ./5-firstlines -Display the first 10 lines
 ./6-third_lines - script that displays the third line of a given file
+./8-cwd_state - cript that writes into the file ls_cwd_content the result of the command ls -la
