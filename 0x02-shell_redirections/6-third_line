@@ -1,2 +1,2 @@
 #!/bin/bash
-grep "Alea iacta est ("The die is cast") is a Latin phrase attributed by Suetonius" ./iacta
+awk '{if(NR==3) print $0}' ./iacta 
