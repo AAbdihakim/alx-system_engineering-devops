@@ -7,3 +7,4 @@
 ./3-twofiles - Displays the content of more files
 ./4-lastlines - Display the last 10 lines
 ./5-firstlines -Display the first 10 lines
+./6-third_lines - script that displays the third line of a given file
