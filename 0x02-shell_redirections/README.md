@@ -13,3 +13,4 @@
 ./10-no_more_js -a script that deletes all the regular files (not the directories) with a .js extension that are present in the current directory and all its subfolders.
 ./11-directories- script that counts the number of directories and sub-directories in the current directory.
 ./12-newest_files - a script that displays the 10 newest files in the current directory
+./14-findthatword - Display lines containing the pattern “root” from the file /etc/passwd
