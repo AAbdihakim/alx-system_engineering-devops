@@ -1,2 +1,2 @@
 #!/bin/bash
-grep "The die is cast" iacta
+grep "Alea iacta est ("The die is cast") is a Latin phrase attributed by Suetonius" ./iacta
